@@ -19,7 +19,7 @@ jobs:
 ## Features  -------------------------------------------------------------------------------------#
     # Approvals
       shamanopsBusinessApprovers: 'jroca@shamanops.com'
-      shamanopsTechnicalApprovers: 'omar.garcia@digitalfemsa.com, jose.bermudez@digitalfemsa.com'
+      shamanopsTechnicalApprovers: 'rocajp@gmail.com'
       shamanopsBusinessApproversMinimalProd: '1'
       shamanopsTechnicalApproversMinimalProd: '1'
 #-------------------------------------------------------------------------------------------------#
